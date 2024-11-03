@@ -1,0 +1,13 @@
+.bothElements {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    }
+
+.bothElements.firstElement {
+background-color: black;
+color: white;
+}
+
+.bothElements.secondElement {
+background-color: yellow;
+}

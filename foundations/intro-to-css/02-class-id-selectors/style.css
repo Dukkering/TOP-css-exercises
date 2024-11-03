@@ -1,0 +1,21 @@
+/*styles.css*/
+
+.oddElements {
+    background-color: #de9cba;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.thirdElement {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: #a5de9c;
+    font-size: 24px;
+    font-weight: 700;
+}
